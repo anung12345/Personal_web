@@ -13,3 +13,9 @@ with col2:
     Hi, I am Anung! I am a Python programmer, student, and founder of PythonHow. 
     """
     st.info(content)
+
+content2 = """
+Below you can find some apps i have built in Python
+"""
+
+st.write(content2)
